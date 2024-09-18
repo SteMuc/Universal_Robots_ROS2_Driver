@@ -155,3 +155,5 @@ Prepare the pre-commit formatting to run like this:
   ```
   pre-commit install
   ```
+## Moveit2! ISSUE Rviz:
+https://answers.ros.org/question/396209/moveit-plugin-for-rviz-recognizes-number-as-string/
