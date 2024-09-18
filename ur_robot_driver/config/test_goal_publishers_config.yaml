@@ -29,7 +29,7 @@ publisher_scaled_joint_trajectory_controller:
       elbow_joint: [-0.1,0.1]
       wrist_1_joint: [-1.6,-1.5]
       wrist_2_joint: [-0.1,0.1]
-      wrist_3_joint: [-0.1,0.1]
+      wrist_3_joint: [-0.78,0.78]
 
 publisher_joint_trajectory_controller:
   ros__parameters:
