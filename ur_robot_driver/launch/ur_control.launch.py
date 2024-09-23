@@ -333,7 +333,7 @@ def launch_setup(context, *args, **kwargs):
     controllers_active = [
         "joint_state_broadcaster",
         "io_and_status_controller",
-        # "speed_scaling_state_broadcaster",
+        "admittance_controller",
         "force_torque_sensor_broadcaster",
     ]
     controllers_inactive = ["forward_position_controller", "speed_scaling_state_broadcaster"]
